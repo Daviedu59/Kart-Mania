@@ -1,2 +1,2 @@
 # WebBooks
-Repositório dos arquivos do sistema de kart
+Repositório dos arquivos do sistema da biblioteca online.
